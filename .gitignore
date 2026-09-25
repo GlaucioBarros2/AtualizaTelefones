@@ -1,0 +1,6 @@
+*.DBF
+*.dbf
+*.csv
+*.cache.json
+*.tmp
+__pycache__/
